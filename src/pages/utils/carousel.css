@@ -1,0 +1,9 @@
+.slide{height: 350px;}
+.carousel {
+    margin-bottom: 1rem;
+}
+.contactus .card{margin-bottom:1.5rem;}
+
+@media (max-width: 769px) {
+    .slide{height: auto;}
+  }
